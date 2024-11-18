@@ -8,10 +8,8 @@ Welcome to the **Click 2 Copy Project**, an initiative by the Wolfram Institute 
 
 This repository serves as a central hub for the *Click 2 Copy* initiative. It provides:  
 
-- **Links to original images or figures** from the *NKS* book.  
-- **Modern Wolfram Language code** that reproduces these figures, with a convenient "Click to Copy" feature for quick use.  
+- **Links to original figures and relevant pages** in the *NKS* book for context and reference.  
 - A **table of progress**, showing which figures have been updated and which still require contributions.  
-- **Links to the relevant pages** in the *NKS* book for context and reference.  
 
 ---
 
@@ -30,7 +28,7 @@ We welcome and encourage contributions to this project! Here’s how you can hel
 3. **Submit a Pull Request (PR)**  
    - Fork the repository, update the relevant files with your code, and submit a pull request.  
    - Include a brief description of your contribution and reference the figure from the table.  
-   - Your submission will be reviewed, and once approved, it will be added to the repository.  
+   - Your submission will be reviewed, and once approved, it will be added to the repository and included in the NKS book.  
 
 ---
 
@@ -51,16 +49,4 @@ This repository is organized as follows:
    - Enable users to explore and reproduce *NKS* visuals with a single click.  
 2. **Education**  
    - Provide insights into the computational principles behind the figures.  
-3. **Collaboration**  
-   - Build a comprehensive, community-driven resource for modern Wolfram Language code.  
-
----
-
-## 🚀 Getting Started  
-
-To get started:  
-1. **Clone the Repository**:  
-   ```bash
-   git clone https://github.com/wolfram-institute/click-2-copy.git
-   cd click-2-copy
 
