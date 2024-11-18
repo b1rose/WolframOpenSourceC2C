@@ -51,7 +51,7 @@ This repository is organized as follows:
    - Provide insights into the computational principles behind the figures.  
 
 ---
-|Figure Name                   |Website Link                            |Status (Finished vs. Unfinished)|
+|Figure Name                   |Website Link                            |Status|
 |------------------------------|----------------------------------------|--------------------------------|
 |page0027b_rule30-rule         |https://www.wolframscience.com/nks/p27  |✓                               |
 |page0032b_rule110-rule        |https://www.wolframscience.com/nks/p32  |✓                               |
