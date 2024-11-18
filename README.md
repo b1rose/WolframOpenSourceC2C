@@ -51,6 +51,16 @@ This repository is organized as follows:
    - Provide insights into the computational principles behind the figures.  
 
 ---
+
+## 📋 Table of Figures 
+
+The **Table of Figures** provides a comprehensive overview of all the figures from *A New Kind of Science (NKS)*. Each entry includes:  
+
+- A **link to the figure** in the *NKS* book.  
+- The current **status** of the figure (updated with modern Wolfram Language code or pending).  
+
+This table helps track progress and makes it easy for contributors to identify where they can help. If you're looking to get involved, start here to find a figure that needs your expertise!  
+
 |Figure Name                   |Website Link                            |Status|
 |------------------------------|----------------------------------------|--------------------------------|
 |page0027b_rule30-rule         |https://www.wolframscience.com/nks/p27  |✓                               |
