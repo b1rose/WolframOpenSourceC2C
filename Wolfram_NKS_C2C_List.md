@@ -1,4 +1,4 @@
-|Figure Name                   |FIELD2                                  |Status (Finished vs. Unfinished)|
+|Figure Name                   |Website Link                            |Status (Finished vs. Unfinished)|
 |------------------------------|----------------------------------------|--------------------------------|
 |page0027b_rule30-rule         |https://www.wolframscience.com/nks/p27  |✓                               |
 |page0032b_rule110-rule        |https://www.wolframscience.com/nks/p32  |✓                               |
