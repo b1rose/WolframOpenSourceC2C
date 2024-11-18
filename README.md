@@ -51,7 +51,7 @@ This repository is organized as follows:
    - Provide insights into the computational principles behind the figures.  
 
 ---
-|Figure Name                   |Status (Finished vs. Unfinished)|
+|Figure Name                   |Status|
 |------------------------------|--------------------------------|
 |page0027b_rule30-rule         |✓                               |
 |page0032b_rule110-rule        |✓                               |
